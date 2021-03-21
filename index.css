@@ -1,15 +1,15 @@
 body {
     text-align: center;
     margin: 0px;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
 }
 
 .about {
-    background-color: Blue;
+    background-color: lightblue;
     padding: 0px;
 }
 
 .projects {
-    background-color: Royalblue;
+    background-color: orange;
     padding: 10px;
 }
