@@ -1,15 +1,15 @@
 body {
     text-align: center;
     margin: 0px;
-    font-family: "Comic Sans MS";
+    font-family: "Grandstander";
 }
 
 .about {
-    background-color: yellow;
+    background-color: Blue;
     padding: 0px;
 }
 
 .projects {
-    background-color: yellow;
+    background-color: Royalblue;
     padding: 10px;
 }
