@@ -1,5 +1,3 @@
-[![Contributor Covenant](https://img.shields.io/
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
